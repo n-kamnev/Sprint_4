@@ -27,7 +27,6 @@
 # Gradle
 .idea/**/gradle.xml
 .idea/**/libraries
-.idea/
 
 # Gradle and Maven with auto-import
 # When using Gradle or Maven with auto-import, you should exclude module files,
@@ -208,7 +207,6 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-
 # Spyder project settings
 .spyderproject
 .spyproject
@@ -240,3 +238,5 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+.idea/
+.DS_Store
