@@ -240,3 +240,5 @@ cython_debug/
 
 .idea/
 .DS_Store
+.idea/.gitignore
+.gitignore
